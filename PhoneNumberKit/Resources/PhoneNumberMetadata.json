@@ -8310,7 +8310,7 @@
           },
           "internationalPrefix": "00",
           "mobile": {
-            "possibleLengths": { "national": "9,10,11" },
+            "possibleLengths": { "national": "9,10" },
             "exampleNumber": "123456789",
             "nationalNumberPattern": "1(?:1[1-7]\\d{2}|[02-4679][2-9]\\d|59\\d{2}|8(?:1[23]|[2-9]\\d))\\d{5}"
           },
